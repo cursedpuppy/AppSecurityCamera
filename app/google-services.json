@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154010826465",
+    "project_id": "securitycameraia",
+    "storage_bucket": "securitycameraia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154010826465:android:2ad92338b11b2c0ad569a0",
+        "android_client_info": {
+          "package_name": "com.example.securitycameraiav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkUvUpeoN5c56aYUONJDYDkEQhFv0WE5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154010826465:android:5baa9e42b5453084d569a0",
+        "android_client_info": {
+          "package_name": "com.securitycameraials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkUvUpeoN5c56aYUONJDYDkEQhFv0WE5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
