@@ -1,3 +1,4 @@
+⚠️Por favor leer notas al final⚠️
 **Security Camera IA - Componente Móvil**  
 *(Complemento Educativo del Sistema de Vigilancia Inteligente)*  
 
@@ -81,3 +82,4 @@ Demostrar habilidades en:
 - Manejo de datos no estructurados  
 
 *Nota: Código compartido con fines pedagógicos - Requiere mejoras para uso productivo*
+⚠️Nota importante: Este proyecto no funciona porque las credenciales de Firebase fueron expuestas públicamente y deshabilitadas por seguridad. Usa tus propias credenciales de Firebase para probarlo localmente.⚠️
