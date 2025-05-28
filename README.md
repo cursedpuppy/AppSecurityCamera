@@ -1,4 +1,5 @@
 ⚠️Por favor leer notas al final⚠️
+
 **Security Camera IA - Componente Móvil**  
 *(Complemento Educativo del Sistema de Vigilancia Inteligente)*  
 
